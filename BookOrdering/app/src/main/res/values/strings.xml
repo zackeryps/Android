@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ZackSalzAndroid</string>
+    <string name="title_item_detail">Item Detail</string>
+    <string name="image_description">Books</string>
+    <string name="request_name">Please enter your name:</string>
+    <string name="request_isbn">Please enter the book\'s isbn:</string>
+    <string name="request_title">Please enter the book\'s title:</string>
+    <string name="request_author">Please enter the author\'s name:</string>
+    <string name="request_date">Please select a request date:</string>
+    <string name="button_submit">Submit</string>
+    <string name="header_entry">Enter information here</string>
+    <string name="header_confirm">You entered  the information:</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
